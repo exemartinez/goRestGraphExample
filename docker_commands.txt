@@ -1,0 +1,4 @@
+
+docker run cmd/sparklygoapi.go //for stand alone and assuming you already have a neo4j configured.
+docker build -t sparklygoapi .
+docker-compose up --build && docker-compose up -d //we didn't tested docker compose with Golang, yet.

@@ -1,0 +1,81 @@
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:33:53-03:00"}
+{"App":"sparkly","level":"info","msg":"Error trying to recall all the movies.","time":"2020-04-08T12:33:58-03:00"}
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:38:40-03:00"}
+{"App":"sparkly","level":"error","msg":"cannot acquire a session on a closed driver","time":"2020-04-08T12:38:49-03:00"}
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:40:32-03:00"}
+{"App":"sparkly","level":"error","msg":"cannot acquire a session on a closed driver","time":"2020-04-08T12:40:38-03:00"}
+{"App":"sparkly","level":"error","msg":"cannot acquire a session on a closed driver","time":"2020-04-08T12:40:38-03:00"}
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:42:34-03:00"}
+{"App":"sparkly","level":"error","msg":"cannot acquire a session on a closed driver","time":"2020-04-08T12:42:40-03:00"}
+{"App":"sparkly","level":"error","msg":"cannot acquire a session on a closed driver","time":"2020-04-08T12:42:40-03:00"}
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:44:56-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:45:51-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:45:51-03:00"}
+{"App":"sparkly","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:51:12-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:53:50-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:53:50-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:55:26-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:55:33-03:00"}
+{"App":"sparkly","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:55:33-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T12:57:59-03:00"}
+{"App":"sparkly","function":"getAllMovies","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:58:06-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"unable to acquire connection from connector: error: [7] permission denied, state: 4, context: BoltConnection_init(/Users/neo/buildAgent/work/c4f1f1576663d58b/seabolt/src/seabolt/src/bolt/connection.c:412), failure message","time":"2020-04-08T12:58:06-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:05:39-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:09:52-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:10:56-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:12:41-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:15:18-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:18:13-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:26:09-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:31:16-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=54, error=invalid character '\\n' in string literal","time":"2020-04-08T13:31:25-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=60, error=invalid character '\"' after object key:value pair","time":"2020-04-08T13:31:40-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=60, error=invalid character '\"' after object key:value pair","time":"2020-04-08T13:31:50-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:32:56-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:33:02-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=60, error=invalid character '\"' after object key:value pair","time":"2020-04-08T13:33:02-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:33:24-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=57, error=invalid character '\\\\' after object key:value pair","time":"2020-04-08T13:33:24-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:33:41-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=32, error=invalid character '\\'' looking for beginning of value","time":"2020-04-08T13:33:41-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:33:57-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=Syntax error: offset=38, error=invalid character '\\n' in string literal","time":"2020-04-08T13:33:57-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:34:06-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[id:\u003cnil\u003e released:\u003cnil\u003e roles:\u003cnil\u003e tagline:\u003cnil\u003e title:\u003cnil\u003e]","time":"2020-04-08T13:34:06-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[]","time":"2020-04-08T13:34:24-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[id:\u003cnil\u003e released:\u003cnil\u003e roles:\u003cnil\u003e tagline:\u003cnil\u003e title:Star Wars]","time":"2020-04-08T13:34:24-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:51:50-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T13:54:28-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:03:06-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:04:38-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:04:43-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[id:\u003cnil\u003e released:\u003cnil\u003e roles:\u003cnil\u003e tagline:\u003cnil\u003e title:Star Wars]","time":"2020-04-08T14:04:43-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:05:52-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[id:1 released:2 roles:4 tagline:3 title:Star Wars]","time":"2020-04-08T14:05:52-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:07:41-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:07:48-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"map[id:1 released:2 roles:4 tagline:3 title:Star Wars]","time":"2020-04-08T14:07:48-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:08:23-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:11:04-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:11:09-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:12:41-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:12:45-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:12:58-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:13:16-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:13:22-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:13:52-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:13:59-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:13:59-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:21:31-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:21:42-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:21:42-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=EOF","time":"2020-04-08T14:21:42-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:21:51-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"\u003cnil\u003e","time":"2020-04-08T14:21:51-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=EOF","time":"2020-04-08T14:21:51-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:22:20-03:00"}
+{"App":"sparkly","function":"main - body sent","level":"info","msg":"map[]","time":"2020-04-08T14:22:24-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Star Wars","time":"2020-04-08T14:22:24-03:00"}
+{"App":"sparkly","function":"main","level":"error","msg":"code=400, message=EOF","time":"2020-04-08T14:22:24-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"Initiating the REST API.","time":"2020-04-08T14:24:02-03:00"}
+{"App":"sparkly","function":"main","level":"info","msg":"The movie title: Star Wars","time":"2020-04-08T14:24:07-03:00"}
