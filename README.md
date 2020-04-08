@@ -21,6 +21,7 @@ In order to run the example, you'll need:
      go run cmd/sparklygoapi.go
      ```
 This will run a local server that will hit the Neo4J pre-configured database.
+
 2. Use the postman collection to test the call to the golang service. This will just run ONE call that adds a movie by its title.
 
 
