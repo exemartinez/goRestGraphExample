@@ -16,7 +16,7 @@ We have been using Echo and Logrus, just as an example of library usage.
 
 ## Run
 In order to run the example, you'll need:
-1. Execute the following command:
+1. Placed on $GOPATH/src/github.com/exemartinez/goRestGraphExample. Execute the following command:
     ```
      go run cmd/sparklygoapi.go
      ```
