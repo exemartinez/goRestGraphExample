@@ -7,7 +7,7 @@ This example just adds a new movie, with just its title.
 
 We have been using Echo and Logrus, just as an example of library usage. 
 
-##Assumptions
+## Assumptions
 * There is a localhost Neo4J solution on 7687 with the credentials as: neo4j/secret
 * You got all the drivers for Neo4J installed, as is explained in https://neo4j.com/developer/go/
 
